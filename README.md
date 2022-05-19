@@ -8,7 +8,7 @@ Full Stack Web Developer
 * ✉️  You can contact me at [issamlamkadem@gmail.com](mailto:issamlamkadem@gmail.com)
 * 🧠  I'm learning Next.js and
 * 🤝  I'm open to collaborating on challenging and ambitious projects
-* ⚡  I'm hardstuck in Silver 2 rank in Valorant
+* ⚡  I'm hardstuck in Silver rank in Valorant
 
 ### Skills
 
